@@ -34,7 +34,7 @@ Eɴᴊᴏʏ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs – ᴄʜᴇᴄᴋ ᴏᴜᴛ �
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>• Mʏ Nᴀᴍᴇ: {}
-• Oᴡɴᴇʀ : <a href="https://t.me/kissuhelp">𓆩•𝐊𝐢𝐬𝐬𝐮 💞•𓆪</a>
+• Oᴡɴᴇʀ : <a href="https://t.me/kissuhelp">ＰＲΞΞＴ 𓆩Ｂₒ₱₵ₕɆ𓆪</a>
 • Lɪʙʀᴀʀʏ: <a href='docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 • Lᴀɴɢᴜᴀɢᴇ: <a href='www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 • DᴀᴛᴀBᴀsᴇ: <a href='www.mongodb.com'>MᴏɴɢᴏDB</a></b>"""
@@ -387,5 +387,5 @@ Uꜱᴇʀ Sᴛᴀᴛᴜꜱ : Vᴇʀɪғɪᴇᴅ</b>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """┏━━━━━━━━━━━━━━┓
-┃ Made by → @KissuBots ┃
+┃ Made by → @PR_GAMING_25 ┃
 ┗━━━━━━━━━━━━━━┛"""
