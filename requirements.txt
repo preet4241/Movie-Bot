@@ -8,7 +8,7 @@ requests
 beautifulsoup4
 shortzy
 pytz
-imbd
+IMDbPY
 
 # 🌐 Flask App Server
 Flask==2.2.2
